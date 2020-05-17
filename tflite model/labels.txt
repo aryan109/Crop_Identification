@@ -1,0 +1,12 @@
+cotton
+gram
+jowar
+jute
+maize
+onion
+pea
+pumpkin
+rice
+sugarcane
+sunflower
+wheat
